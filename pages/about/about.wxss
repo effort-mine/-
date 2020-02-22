@@ -1,0 +1,15 @@
+/* pages/about/about.wxss */
+.box{
+  background: red
+}
+.box1{
+  width:100px;
+  height:100px;
+  background:blue;
+}
+
+.hover-view{
+  width: 100px;
+  hyphens: 100px;
+  background: orange;
+}

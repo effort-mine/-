@@ -1,0 +1,8 @@
+<view>我是分类界面</view>
+<view class='box'>这里是商品分类界面</view>
+<view class='box1' 
+  hover-class="hover-view"
+  hover-start-time="0"
+  hover-stay-time="0">
+    boss
+</view>

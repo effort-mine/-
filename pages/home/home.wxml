@@ -1,0 +1,6 @@
+<view>hello {{name}}</view>
+<view>我的年龄：{{age}}</view>
+<view wx:for="{{students}}">{{item.name}}--{{item.age}}</view>
+<view>当前计数：{{counter}}</view>
+<button id="i23" size='mini' bindtap='handleBthClick'>+</button>
+<button size='mini' bindtap='handleSubtraction'>-</button>

@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/about/about",
+    "pages/image/image"
+  ],
+  "sitemapLocation": "sitemap.json",
+  "window": {
+    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "青春师院",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "text",
+        "iconPath": "assets/tabbar/home.jpg",
+        "selectedIconPath": "assets/tabbar/home_active.jpg"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "text",
+        "iconPath": "assets/tabbar/category.jpg",
+        "selectedIconPath": "assets/tabbar/category_active.jpg"
+      }
+    ]
+  }
+}
